@@ -1,0 +1,59 @@
+
+UserId = riyag1512
+Password = band
+Name = riya gupta
+Age = 21
+Sex = F
+Email = riyag
+
+UserId = half
+Password = abc
+Name = halfsoul
+Age = 22
+Sex = M
+Email = as
+
+UserId = anu
+Password = anu
+Name = anu
+Age = 18
+Sex = M
+Email = anu
+
+
+UserId = anu
+Password = anu
+Name = anu
+Age = 18
+Sex = M
+Email = anu
+
+UserId = anu
+Password = anup
+Name = anu
+Age = 18
+Sex = M
+Email = anu
+
+UserId = anu
+Password = anu
+Name = anu
+Age = 18
+Sex = M
+Email = anu
+
+UserId = anu
+Password = anu
+Name = anu
+Age = 18
+Sex = M
+Email = anu
+
+
+
+
+
+
+
+
+
